@@ -26,4 +26,4 @@
 
 - C# is a strongly typed language.
 
-- A program can query its own metadata (redlection).
+- A program can query its own metadata (reflection).
