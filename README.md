@@ -27,3 +27,9 @@
 - C# is a strongly typed language.
 
 - A program can query its own metadata (reflection).
+
+### Chapter 2: C# Language Basics
+
+- A mehthod performs a function; a class groups function members and data members to form an OOP building block.
+
+> I/O = Input/Output
